@@ -79,7 +79,7 @@ B = SET()
 U = SET()
 
 while True:
-    print("\n SET OPERATIONS - PROGRAM CODED BY VEDANT SHARMA.")
+    print("\n SET OPERATIONS")
     print("1.Input Set A")
     print("2.Input Set B")
     print("3.Input Universal Set")
